@@ -1,0 +1,13 @@
+# Data and trained models (too large / not meant for version control)
+data/*.RData
+data/*.csv
+models/**/*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
