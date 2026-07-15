@@ -1,0 +1,11 @@
+jupyter
+numpy
+pandas
+scikit-learn
+xgboost
+optuna
+shap
+dice-ml
+pyreadr
+joblib
+matplotlib
